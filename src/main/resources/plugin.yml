@@ -1,0 +1,10 @@
+name: PingPlugin
+version: '${version}'
+main: xyz.n7mn.dev.pingplugin.PingPlugin
+authors: [ 7mi_chan ]
+description: PingPlugin
+website: https://wiki.7mi.site/
+commands:
+  ping:
+    description: 'Player Ping'
+    usage: '/ping'
